@@ -56,9 +56,9 @@ I love building websites, solving problems, and exploring new technologies. Alon
 
 *(You can add your links here later)*
 
-* GitHub: [Your GitHub Link]
-* LinkedIn: [Your LinkedIn Link]
-* Portfolio: [Your Website Link]
+* GitHub: https://github.com/AnukalpVarshney07
+* LinkedIn: anukalp.varshneyyy@gmail.com
+* Portfolio: Coming Soon 🚀
 
 ---
 
