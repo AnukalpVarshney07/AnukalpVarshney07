@@ -55,8 +55,7 @@ I love building websites, solving problems, and exploring new technologies. Alon
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/AnukalpVarshney07
-* LinkedIn: anukalp.varshneyyy@gmail.com
-* Portfolio: Coming Soon 🚀
+* Portfolio: https://anukalpvarshney.vercel.app
 
 ---
 
